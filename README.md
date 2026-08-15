@@ -64,4 +64,4 @@ You can easily replace the default movie selection with your personal watchlist:
 
 
 
-This project is open-source and available under the [MIT License](LICENSE). Feel free to fork, modify, and use it for your own personal or educational creations!
+
