@@ -1,4 +1,4 @@
-# 🎬 Movie Roulette
+ Movie Roulette
 
 A minimalist, responsive web application that helps users solve decision fatigue by randomly selecting a movie from a curated list. Built entirely using vanilla frontend technologies (HTML5, CSS3, and JavaScript).
 
@@ -6,7 +6,7 @@ A minimalist, responsive web application that helps users solve decision fatigue
 
 ---
 
-## ✨ Features
+ Features
 
 *   **Instant Randomizer:** Instantly selects a film from a predefined movie pool with a single click.
 *   **Visual Feedback:** Features simulated loading states and dynamic color shifts based on app status.
@@ -15,7 +15,7 @@ A minimalist, responsive web application that helps users solve decision fatigue
 
 ---
 
-## 📁 Project Structure
+ Project Structure
 
 ```text
 random-movie-chooser/
@@ -27,8 +27,7 @@ random-movie-chooser/
 ```
 
 ---
-
-## 🚀 Getting Started
+ Getting Started
 
 ### Prerequisites
 You only need a modern web browser (Google Chrome, Mozilla Firefox, Safari, or Microsoft Edge) to run this project.
@@ -47,7 +46,7 @@ You only need a modern web browser (Google Chrome, Mozilla Firefox, Safari, or M
 
 ---
 
-## 🛠️ How to Customize the Movie List
+ How to Customize the Movie List
 
 You can easily replace the default movie selection with your personal watchlist:
 
